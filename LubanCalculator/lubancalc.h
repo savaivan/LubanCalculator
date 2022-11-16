@@ -6,4 +6,3 @@ public:
 	bool solve();
 	void streees();
 };
-
